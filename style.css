@@ -1,0 +1,55 @@
+body
+{
+    background: aliceblue;
+}
+
+a
+{
+    color: white;
+}
+p
+{
+    padding: 20px;
+}
+
+.navbar
+{
+    background: #4aaaa5;
+}
+
+.img-thumbnail 
+{
+    padding:20px;
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.footer
+{
+    clear: both;
+    background: #4aaaa5;
+    color: white;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+#image
+{
+    float: left;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+
+}
+#form-margin
+{
+    padding: 20px;
+}
+picture
+{
+    align: center;
+}
